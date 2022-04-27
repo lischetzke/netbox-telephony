@@ -2,6 +2,13 @@
 The skeleton for [Netbox](https://github.com/netbox-community/netbox) plugin.  
 Basically, it's a Django app skeleton, which contains all necessary (and unnecessary) files for building a new plugin.
 
+## Important
+This project is WIP, planned features will be:
+- Telephone numberblock management
+- Telephone number management
+
+---
+
 ## Instructions
 ### Donwload repositioriy
 You can get this skeleton in two ways:
